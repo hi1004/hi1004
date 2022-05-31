@@ -29,8 +29,9 @@
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a>
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
  
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi1004)](https://github.com/hi1004)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi1004)](https://github.com/hi1004)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi1004)](https://github.com/hi1004)
 
 
 </div>
