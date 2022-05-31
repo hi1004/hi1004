@@ -6,4 +6,4 @@
 <img src="https://img.shields.io/badge/javascript-FFCA28?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-E34F26?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
