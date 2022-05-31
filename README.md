@@ -13,7 +13,11 @@
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Swiper.js-6332F6?style=flat-square&logo=Swiper&logoColor=white"/></a>
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Gsap.js-88CE02?style=flat-square&logo=GreenSock&logoColor=white"/></a>
-<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></a>
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></a>
-## used at least onece
+
+## Stacks of interest
+<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React.js&logoColor=white"/></a>
+<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
+<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Redux.js-764ABC?style=flat-square&logo=Redux.js&logoColor=white"/></a>
+<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/TypeScript.js-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
