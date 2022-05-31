@@ -17,7 +17,7 @@
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></a>
 
 ## Stacks of interest
-<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React.js&logoColor=white"/></a>
-<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
-<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Redux.js-764ABC?style=flat-square&logo=Redux.js&logoColor=white"/></a>
-<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/TypeScript.js-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
+<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next&logoColor=white"/></a>
+<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
+<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
