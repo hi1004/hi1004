@@ -5,3 +5,4 @@
 
 <img src="https://img.shields.io/badge/javascript-FFCA28?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html.js&logoColor=white"/>
