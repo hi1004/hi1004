@@ -9,6 +9,8 @@
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
 
+<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
+<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Swiper.js-6332F6?style=flat-square&logo=Swiper&logoColor=white"/></a>
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Gsap.js-88CE02?style=flat-square&logo=GreenSock&logoColor=white"/></a>
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></a>
