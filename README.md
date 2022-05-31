@@ -6,8 +6,11 @@
 ## Tech Stack
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+
+<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
+<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
+
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=javascript&logoColor=white"/></a>
-<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Scss&logoColor=white"/></a>
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>
 
 ## used at least onece
