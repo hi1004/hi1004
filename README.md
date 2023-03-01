@@ -1,12 +1,12 @@
  
 
-[![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Slowly,%20Steadily&fontSize=90&fontColor=fff)](https://github.com/hi1004)
-
+[![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Hi!%201004&fontSize=50&fontColor=fff&rotate=20&fontAlign=85&fontAlignY=25&desc=I'm%20ByeongHeon%20&descAlign=85&descAlignY=40&descSize=25)](https://github.com/hi1004)
  
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
+
 
 <div align=center>
   <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
@@ -37,6 +37,7 @@
 </div>
 <br>
 
+
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
@@ -54,7 +55,16 @@
 </div>
 
 <br>
-</div>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=hi1004&show_icons=true">
+
 </div>
+<br><br><br>
+
+
+[![footer](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=footer&text=Slowly,%20Steadily&fontSize=50&fontColor=fff&rotate=20&fontAlign=75&fontAlignY=25&desc=FE%20developer%20Oh%20ByeongHeon%20&descAlign=75&descAlignY=40&descSize=25&)](https://github.com/hi1004)
+</div>
+
+
+
+
