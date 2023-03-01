@@ -1,7 +1,7 @@
  
-<div align=center>
+
 [![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Slowly,%20Steadily&fontSize=90&fontColor=fff)](https://github.com/hi1004)
- </div>
+
  
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -31,6 +31,11 @@
 
 <br>
 <div align=center>
+	<h3>:book:Stacks of interest</h3>
+	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
+	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
+</div>
+<div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
@@ -46,9 +51,7 @@
 	<br>
 </div>
 
-<h3>:book:Stacks of interest</h3>
-<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
-<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
+
 
 
 </div>
