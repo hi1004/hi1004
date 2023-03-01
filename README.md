@@ -19,5 +19,9 @@
 <h3>:book:Stacks of interest</h3>
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
+
+
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=hi1004&show_icons=true">
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=hi1004&show_icons=true">
+</div>
