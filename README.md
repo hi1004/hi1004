@@ -14,22 +14,16 @@
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/CSS Modules-000000?style=flat-square&logo=CSS Modules&logoColor=white"/></a>
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 	<br/>
-
   <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
   <a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
-	
   <br />
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></a>
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/></a>
-	
-
-	
- 
 </div>
 <br/>
 
