@@ -39,22 +39,6 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
-	<a href="https://portfolio-one-eta-96.vercel.app/">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
-	<a href="https://velog.io/@kipo09">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
-	<a href="mailto:byorusia@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-</div>
-<br>
-
-<div align=center>
 	<h3>📖 Stacks of interest 📖`</h3>
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
@@ -67,10 +51,23 @@
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 
-	
-
 </div>
 <br>
+
+<div align=center>
+	<h3>🎨 SNS & Portfolio 🎨</h3>
+</div>
+<div align=center>
+	<a href="https://portfolio-one-eta-96.vercel.app/">
+		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+	</a>
+	<a href="https://velog.io/@kipo09">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+	<a href="mailto:byorusia@gmail.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+</div>
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=hi1004&show_icons=true">
