@@ -39,7 +39,7 @@
 </div>
 <br>
 <div align=center>
-	<h3>📖 Stacks of interest 📖`</h3>
+	<h3>📖 Stacks of interest 📖</h3>
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 	<a href="https://github.com/hi1004"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
